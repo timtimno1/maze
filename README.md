@@ -5,7 +5,9 @@
 ![avatr](image/0.jpg)
 ## 第一步
 選擇地圖大小
+
 ![avatr](image/1.jpg)
 ## 第二步
 選擇障礙物比例
+
 ![avatr](image/2.jpg)
